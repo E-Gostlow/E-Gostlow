@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">A passionate developer from the UK</h3>
 
-- 🔭 I’m currently working on [a Discord JS v13 bot](https://github.com/Raul-Tech-Support/boop-bot-v13)
+- 🔭 I’m currently working on [nothing!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Raul-Tech-Support/boop-bot-v13](https://github.com/Raul-Tech-Support)
+- 👨‍💻 All of my projects are available at [https://github.com/Raul-Tech-Support](https://github.com/Raul-Tech-Support)
 
 - 💬 Ask me about **anything! I'll do my best to answer!**
 
