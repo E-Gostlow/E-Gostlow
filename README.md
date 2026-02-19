@@ -1,4 +1,4 @@
-# 👋Hi, I'm Emile
+# 👋 Hi, I'm Emile
 
 - 🔭 I'm currently working on **my Software Engineering degree at LJMU!**
 
@@ -13,6 +13,7 @@
 <a href="https://github.com/E-Gostlow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="E-Gostlow" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/EGostlow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EGostlow" height="30" width="40" /></a>
 <a href="https://app.intigriti.com/profile/egostlow" target="_blank"><img align="center" src="https://app.intigriti.com/assets/img/branding/intigriti-eyes-white-on-dark.svg" alt="Intigriti: egostlow" height="30" width="40" /></a>
+<a href="https://emile.gostlow.uk" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/16451/16451447.png" alt="Visit Website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Main Languages and Tools:</h3>
